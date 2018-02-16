@@ -7,4 +7,3 @@ output consists of cropped images according to ROI
 ```
 ### ROI examples with facial recognition
 ![alt text](https://github.com/alexshi0000/ROI-finder/blob/master/progress/FacialDetectionFInal3.png)
-![alt text](https://github.com/alexshi0000/ROI-finder/blob/master/progress/faceDetectionFinal.png)
