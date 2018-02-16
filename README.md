@@ -5,5 +5,5 @@ Color extraction for binary recognition. place postive images in target folder a
 run ROI.java
 output consists of cropped images according to ROI
 ```
-### ROI examples with facial recognition
+### ROI examples with facial detection
 ![alt text](https://github.com/alexshi0000/ROI-finder/blob/master/progress/FacialDetectionFInal3.png)
